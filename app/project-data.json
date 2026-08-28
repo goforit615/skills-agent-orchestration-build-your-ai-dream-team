@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Hub",
+      "owner": "Mona Patel",
+      "status": "Active",
+      "recentActivity": "Published the refreshed contribution guide",
+      "priority": "High",
+      "summary": "Making it easier for new contributors to find issues, setup steps, and team context."
+    },
+    {
+      "name": "Release Readiness",
+      "owner": "Jordan Lee",
+      "status": "At risk",
+      "recentActivity": "Found two integration checks that need owners",
+      "priority": "High",
+      "summary": "Coordinating final quality checks and documentation before the next product release."
+    },
+    {
+      "name": "Design System Refresh",
+      "owner": "Avery Chen",
+      "status": "In progress",
+      "recentActivity": "Added accessible states for form components",
+      "priority": "Medium",
+      "summary": "Standardizing reusable interface patterns so teams can ship consistent, accessible experiences."
+    },
+    {
+      "name": "Archive Cleanup",
+      "owner": "Sam Rivera",
+      "status": "Complete",
+      "recentActivity": "Archived 24 inactive repositories",
+      "priority": "Low",
+      "summary": "Reducing maintenance overhead by organizing old project spaces and preserving useful history."
+    }
+  ]
+}
